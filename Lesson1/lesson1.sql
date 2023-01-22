@@ -57,6 +57,3 @@ insert into cars (mark,model,engine_volume,price,max_speed) values ('Toyota','Su
 insert into cars (mark,model,engine_volume,price,max_speed) values ('Ford','Musstang',12,40000,300);
 
 select * from cars.cars;
-
-
-
